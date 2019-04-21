@@ -1,0 +1,27 @@
+{
+  "name": "simple_chat",
+  "version": "1.0.0",
+  "description": "This is a simple chat application with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmmartins/simple_chat.git"
+  },
+  "keywords": [
+    "chat",
+    "websocket",
+    "node"
+  ],
+  "author": "kevinmmartins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinmmartins/simple_chat/issues"
+  },
+  "homepage": "https://github.com/kevinmmartins/simple_chat#readme",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
