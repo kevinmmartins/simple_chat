@@ -1,9 +1,9 @@
 "use strict";
 
-const { check_history, history } = require("./check_history");
+let { check_history, history } = require("./check_history");
 const webSocketServer = require('websocket').server;
-const colors = require('./colors').default
-const htmlEntities = require('./string-utils')
+const {colors} = require('./colors')
+const {htmlEntities} = require('./string-utils')
 const {server} = require('./server')
 const clients = [];
 
