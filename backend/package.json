@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kevinmmartins/simple_chat#readme",
   "dependencies": {
-    "websocket": "^1.0.28"
+    "websocket": "^1.0.29"
   }
 }
